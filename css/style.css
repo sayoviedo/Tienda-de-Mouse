@@ -48,3 +48,33 @@ div {
   p.shadow {
       font-family:  'Shadows Into Light', Verdana, Geneva, Tahoma, sans-serif;
   }
+  .fondo-rojo {
+      width: 300px;
+      height: 50px;
+      background-color: red;
+  }
+  .fondo-verde {
+      width: 300px;
+      height: 50px;
+      background-color: green;
+  }
+  .fondo-rojo-rgb {
+    width: 300px;
+    height: 50px;
+      background-color: rgb(255,0,0);
+  }
+  .fondo-verde-rgb {
+    width: 300px;
+    height: 50px;
+      background-color: rgb(0,255,0);
+  }
+  .fondo-azul-rgb {
+    width: 300px;
+    height: 50px;
+      background-color: rgb(0, 0, 255);
+  }
+  .fondo-sena-hx {
+    width: 300px;
+    height: 50px;
+    background-color: #fb5b04;    
+  }
